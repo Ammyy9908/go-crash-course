@@ -15,7 +15,7 @@ This course is designed to provide a comprehensive understanding of Go, RESTful 
    - Setting up the GOPATH and workspace
    - Understanding the Go toolchain: `go build`, `go run`, etc.
 
-... [Truncated for brevity]
+
 
 ## Month 2: REST APIs with Go
 
@@ -26,7 +26,7 @@ This course is designed to provide a comprehensive understanding of Go, RESTful 
    - Importance of statelessness and idempotency
    - Understanding resource naming conventions
 
-... [Truncated for brevity]
+
 
 ## Month 3: GraphQL with Go
 
@@ -37,7 +37,7 @@ This course is designed to provide a comprehensive understanding of Go, RESTful 
    - Differences between REST and GraphQL
    - Setting up a basic GraphQL server in Go
 
-... [Truncated for brevity]
+
 
 ### Week 3-4: Final Projects & Wrapping Up
 
@@ -45,7 +45,5 @@ This course is designed to provide a comprehensive understanding of Go, RESTful 
    - Refinement of the project, adding advanced features
    - Performance optimization
    - Deployment to a production environment, considering CI/CD
-
-... [Truncated for brevity]
 
 This course aims to ensure that by the end, learners have a robust and comprehensive understanding of Go, its web frameworks, and are able to build robust REST and GraphQL APIs.
